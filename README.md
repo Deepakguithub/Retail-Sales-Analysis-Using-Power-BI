@@ -4,7 +4,7 @@
 
 1️⃣ Project Introduction
 
-Hello everyone, my name is Zayn Malik, and today I will present my Online Retail Sales Analysis Dashboard, which I built using Microsoft Power BI.
+Hello everyone, my name is Deepak Kumar, and today I will present my Online Retail Sales Analysis Dashboard, which I built using Microsoft Power BI.
 
 The main objective of this project is to analyze retail transaction data and transform raw sales data into meaningful business insights that help organizations understand their customers, products, and revenue performance.
 
@@ -196,3 +196,166 @@ It also includes visualizations showing monthly revenue trends, top countries by
 The dashboard is interactive with filters for country and date, allowing users to explore the data dynamically.
 
 This project demonstrates my ability to transform raw business data into meaningful insights using data visualization and business intelligence tools.
+
+
+📊 Retail Sales Analysis – Quantity Dashboard
+
+(Professional Explanation Script)
+
+1️⃣ Project Introduction
+
+Hello, my name is Deepak Kumar, and this is my Retail Sales Analysis Quantity Dashboard which I built using Microsoft Power BI.
+
+The main goal of this dashboard is to analyze product sales quantity, customer activity, and country-wise performance.
+It helps businesses understand how many products are being sold, who the top customers are, and which countries contribute the most to sales quantity.
+
+This dashboard also includes interactive filters, so users can easily explore the data based on country and date range.
+
+2️⃣ Key Performance Indicators (KPIs)
+
+At the top of the dashboard, we have three important KPIs that provide a quick overview of the business performance.
+
+👥 Total Customers – 4.37K
+
+This KPI shows the total number of unique customers who purchased products.
+
+This metric helps businesses understand customer reach and engagement.
+
+📦 Total Products – 3.68K
+
+This shows the total number of unique products sold in the dataset.
+
+This KPI helps track product variety and product availability in the business.
+
+📊 Total Quantity Sold – 4907K
+
+This represents the total number of product units sold.
+
+This is an important metric because it shows overall product demand and sales volume.
+
+3️⃣ Monthly Quantity Trend
+
+The Total Quantity by Month chart shows how product quantity changes over time.
+
+Key insights:
+
+Sales quantity gradually increases during the year.
+
+The highest quantity was recorded in November with around 0.67 million units.
+
+This indicates higher demand during the end of the year, which could be due to seasonal shopping or holiday sales.
+
+This insight helps businesses prepare inventory for high-demand periods.
+
+4️⃣ Country Performance Analysis
+
+The table on the right side shows sales performance by country, including:
+
+Total Revenue
+
+Total Quantity
+
+Customer Count
+
+Key insight:
+
+United Kingdom is the top-performing country, contributing the highest revenue and quantity.
+
+Other important markets include Netherlands, Ireland, Germany, and France.
+
+This helps companies understand which regions generate the most sales.
+
+5️⃣ Top Customers by Quantity
+
+The Total Quantity by Customer chart highlights the top customers based on the number of products purchased.
+
+Key insight:
+
+Some customers purchase significantly more products than others.
+
+The highest customer purchased around 197K units.
+
+This analysis helps businesses identify high-value customers, which is useful for:
+
+Loyalty programs
+
+Customer retention strategies
+
+Targeted promotions
+
+6️⃣ Top Products by Quantity
+
+The Quantity by Top 5 Product chart shows which products are sold the most.
+
+Key insights:
+
+The most popular product sold approximately 45K units.
+
+Other products such as White Hanging Heart Lantern and Party Bunting also have strong sales.
+
+This helps businesses understand which products are most in demand.
+
+Companies can use this information to:
+
+Improve inventory planning
+
+Promote best-selling products
+
+Optimize supply chain decisions
+
+7️⃣ Global Sales Distribution
+
+The map visualization shows the geographic distribution of product quantity sold across different countries.
+
+Key insight:
+
+The majority of sales come from European countries, especially the United Kingdom.
+
+Some sales also come from North America, Asia, and other regions.
+
+This helps businesses understand their global market reach.
+
+8️⃣ Interactive Filters
+
+The dashboard includes interactive filters for:
+
+Country
+
+Date Range
+
+These filters allow users to analyze sales performance for specific regions and time periods, making the dashboard flexible and user-friendly.
+
+9️⃣ Business Value of This Dashboard
+
+This dashboard helps businesses:
+
+Track product sales quantity
+
+Identify top customers
+
+Understand best-selling products
+
+Analyze country-wise performance
+
+Detect seasonal sales trends
+
+This enables organizations to make better data-driven business decisions.
+
+🔟 Conclusion
+
+In conclusion, this Retail Sales Quantity Dashboard provides valuable insights into product demand, customer purchasing behavior, and global sales distribution.
+
+Using Power BI visualization techniques, I was able to transform raw retail data into a clear, interactive, and insightful dashboard that supports better business analysis.
+
+🎤 Short Interview Version (30 seconds)
+
+If an interviewer asks “Explain your dashboard project”, say:
+
+I created a Retail Sales Analysis Quantity Dashboard using Power BI to analyze product demand and customer purchasing behavior.
+The dashboard highlights key KPIs such as total customers, total products, and total quantity sold.
+
+It also includes visualizations for monthly sales trends, top customers, best-selling products, and country-wise performance.
+
+The dashboard is interactive with filters for country and date, allowing users to explore the data easily.
+
+This project demonstrates my ability to analyze retail data and build interactive dashboards for business insights.
